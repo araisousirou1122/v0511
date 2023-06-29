@@ -13,7 +13,7 @@ namespace v0511
             button1.Text = "ˆê”Ô‚¢‚¢‚Ì‚ð—Š‚Þ";
             button1.Left = 0;
             button1.Visible = false;
-            
+            button3.Visible = false;
         }
 
         private void button2_Click(object sender, EventArgs e)
